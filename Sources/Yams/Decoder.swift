@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import Combine
 
 /// `Codable`-style `Decoder` that can be used to decode a `Decodable` type from a given `String` and optional
 /// user info mapping. Similar to `Foundation.JSONDecoder`.
